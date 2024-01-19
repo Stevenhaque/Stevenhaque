@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/stevenhaque" target="blank"><img src="https://img.shields.io/twitter/follow/stevenhaque?logo=twitter&style=for-the-badge" alt="stevenhaque" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me !? **najmulhaque13852@gmail.com**
 
