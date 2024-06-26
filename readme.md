@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenhaque&" alt="stevenhaque" /></p>
 
-## Watch snake eating my github contributions
-![snake gif](https://github.com/Stevenhaque/Stevenhaque/blob/output/github-contribution-grid-snake.svg)
+
