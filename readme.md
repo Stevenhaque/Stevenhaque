@@ -16,7 +16,7 @@
 
 💬 Ask me about **Software Development, Data Structures, Distributed Systems... or anything [here](https://github.com/Stevenhaque/Stevenhaque)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea Rugs**
 
  </div>
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,javascript,html,css,tailwind,nextjs" />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,javascript,html,css,tailwind,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,figma,vscode,git,github" /><br>
 </div>
 
 <br/>
