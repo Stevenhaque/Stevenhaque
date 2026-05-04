@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **System Design projects**
+ 🔭 I’m currently working on **My Projects**
  
- 🌱 I’m currently learning **System Design**
+ 🌱 Also exploring **System Design**
 
-💬 Ask me about **Software Development, System Design, Distributed Systems... or anything [here](https://github.com/Stevenhaque/Stevenhaque)**
+💬 Ask me about **Software Development, Data Structures, Distributed Systems... or anything [here](https://github.com/Stevenhaque/Stevenhaque)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,javascript,html,css,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,raylib,github,git,vscode" /><br>
 </div>
 
 <br/>
